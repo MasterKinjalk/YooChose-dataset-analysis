@@ -9,4 +9,4 @@ This repository deals with the analysis of youchoose dataset and compares some o
 
 Youchoose Dataset can be found on kaggle : https://www.kaggle.com/chadgostopp/recsys-challenge-2015
 
-#The abhove analysis has been done on processed data, the code for processing the youchoose dataset is in **processing.py**.
+#The abhove analysis has been done on processed data, the code for processing the youchoose dataset is in **preprocessing.py**.
