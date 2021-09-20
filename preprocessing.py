@@ -9,7 +9,7 @@ dataBefore = 'C:/Users/Kinjalk Parth/Desktop/Recommeder System/Practical/GRUSess
 dataTestBefore = 'C:/Users/Kinjalk Parth/Desktop/Recommeder System/Practical/GRUSessionBased/GRU4REC-pytorch-master/data/raw_data/yoochoose-test.dat'
 
 # Path to Processed Dataset Folder
-dataAfter = 'C:/Users/Kinjalk Parth/Desktop/Recommeder System/Practical/STAMP_analysis'
+dataAfter = 'C:/Users/Kinjalk Parth/Desktop/Recommeder System/Practical/STAMP_analysis' ##Please add here a path to save the processed data.
 
 dayTime = 86400 #Validation Only one day = 86400 seconds
 
