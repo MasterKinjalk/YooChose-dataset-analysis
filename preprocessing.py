@@ -4,7 +4,7 @@ import pandas as pd
 import datetime
 
 # Path to Original Training Dataset "Clicks" File
-dataBefore = 'C:/Users/Kinjalk Parth/Desktop/Recommeder System/Practical/GRUSessionBased/GRU4REC-pytorch-master/data/raw_data/yoochoose-clicks-super-small.dat'
+dataBefore = 'C:/Users/Kinjalk Parth/Desktop/Recommeder System/Practical/GRUSessionBased/GRU4REC-pytorch-master/data/raw_data/yoochoose-clicks.dat'
 #Path to Original Testing Dataset "Clicks" File
 dataTestBefore = 'C:/Users/Kinjalk Parth/Desktop/Recommeder System/Practical/GRUSessionBased/GRU4REC-pytorch-master/data/raw_data/yoochoose-test.dat'
 
