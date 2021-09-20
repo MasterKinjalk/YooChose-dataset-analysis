@@ -5,6 +5,6 @@ This repository deals with the analysis of youchoose dataset and compares some o
 1. Gated Graph Based RNN for Recomendations : Session-based Recommendation with Graph Neural Networks by Shu Wu et al
 2. GRU4REC : SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS by Balazas Hidasi et al
 3. STAMP : STAMP: Short-Term Attention/Memory Priority Model for Session-based Recommendation by Qiao et al
-4. NARM : Neural Aentive Session-based Recommendation by Jing Li et al
+4. NARM : Neural Attentive Session-based Recommendation by Jing Li et al
 
 
