@@ -13,12 +13,12 @@ Youchoose Dataset can be found on kaggle : https://www.kaggle.com/chadgostopp/re
 
 ### Here are some conclusions that can be drawn from this data analysis:
 
--Some items are not visited frequently so we can just eliminate them from our prediction or decrease there probability so that we get more results that are more likely to be      clicked.
+- Some items are not visited frequently so we can just eliminate them from our prediction or decrease there probability so that we get more results that are more likely to be      clicked.
 
--Most sessions are similar in one way or other to one or more previously existing sessions hence Graph Neural Networks that can model this sort of similarity perform very well.
+- Most sessions are similar in one way or other to one or more previously existing sessions hence Graph Neural Networks that can model this sort of similarity perform very well.
 
--It is repeatedly seen that the last ItemIDs have more number of clicks in every session, which highlights the fact that the last click is very Important in determining the next click.
+- It is repeatedly seen that the last ItemIDs have more number of clicks in every session, which highlights the fact that the last click is very Important in determining the next click.
 
--The general attention calculation will fail to understand the complexity of small click sequences and hence the incorporation of first click is necessary in order to take in effect the  idea of the user, therefore I propose that to increase the efficiency of models, when the number of sessions are less than a threshold, First click should also be used for doing the prediction.
+- The general attention calculation will fail to understand the complexity of small click sequences and hence the incorporation of first click is necessary in order to take in effect the  idea of the user, therefore I propose that to increase the efficiency of models, when the number of sessions are less than a threshold, First click should also be used for doing the prediction.
 
--As it is evident that making sense of these points is out of question for human beings and that most of these sessions have repletion's in part with other sequences, the RNN based models are best suitable for this session based prediction .
+- As it is evident that making sense of these points is out of question for human beings and that most of these sessions have repletion's in part with other sequences, the RNN based models are best suitable for this session based prediction .
